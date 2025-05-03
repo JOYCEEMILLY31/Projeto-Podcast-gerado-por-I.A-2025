@@ -1,4 +1,5 @@
 # Projeto-Podcast-gerado-por-I.A-2025
+https://chatgpt.com/
 você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em front end para iniciantes e eu gostaria de uma ajuda sua para criar cinco sugestoes de nomes criativos para um podcast de front end  para iniciantes que tenha trocadilhos nerds no nome
 O podcast vai falar sobre dicas de como iniciar no mundo do front end 
 [REGRAS]
@@ -10,3 +11,5 @@ O podcast vai falar sobre dicas de como iniciar no mundo do front end
     • Não quero que o nome contenha palavras em inglês 
     • Não quero que utilize nenhuma palavra desta lista: javascript, programador
     • Não quero que o nome seja muito longo ou difícil
+Emilly Potter e o Código da Interface
+Subtítulo: Magia do front-end para iniciantes
